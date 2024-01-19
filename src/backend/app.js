@@ -8,7 +8,7 @@ const cors = require('cors');
 
 dotenv.config({path:'./config.env'});
 
-const db = process.env.DB_LOCAL_URI
+const db = process.env.DB_URI
 
 
 app.use(cors())
