@@ -1,0 +1,13 @@
+.bg{
+    position: relative;
+    bottom: 10px;
+    top: 50px;
+   
+   
+}
+.cen{
+    background: rgba(255, 255, 255, 0.498);
+    
+    backdrop-filter: blur(20px);
+    
+}
