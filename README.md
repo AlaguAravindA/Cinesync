@@ -1,6 +1,5 @@
-![image](https://github.com/AlaguAravindA/Cinesync/assets/136082352/92906562-5608-4bf0-950b-318a6a9fd995)# Movie Searching App
+ Movie Searching App
 
-**LOGO**
 ![Screenshot 2024-01-05 145919](https://github.com/AlaguAravindA/Cinesync/assets/136082352/937aed01-b300-4525-a334-dd6fa0f03c5e)
 
 
