@@ -1,21 +1,21 @@
 # Movie Searching App
 
-![image](https://github.com/AlaguAravindA/Cinesync/assets/136082352/e5089e59-7d5a-46e4-b173-1c6829757710)
+**LOGO**
+![Screenshot 2024-01-05 145919](https://github.com/AlaguAravindA/Cinesync/assets/136082352/937aed01-b300-4525-a334-dd6fa0f03c5e)
 
 
 ## Overview
 
-Welcome to the Movie Searching App! This application allows users to search for movies and obtain detailed information about them. It is built using the MERN (MongoDB, Express.js, React, Node.js) stack and features a powerful movie searching algorithm.
+Welcome to the Movie Searching App! This MERN stack application allows users to search for movies and obtain detailed information about them.
 
 ## Features
 
 - **User-friendly Interface:** Clean and intuitive design for a seamless user experience.
-- **Movie Search Algorithm:** A sophisticated algorithm that provides accurate and relevant search results.
-- **MERN Stack:** Utilizes MongoDB for database management, Express.js for the backend, React for the frontend, and Node.js for server-side scripting.
+- **Movie Search Algorithm:** A sophisticated algorithm provides accurate and relevant search results.
+- **MERN Stack:** MongoDB for database management, Express.js for the backend, React for the frontend, and Node.js for server-side scripting.
 - **Responsive Design:** The app is designed to be responsive and accessible on various devices.
-- **UserPrefrences** If you are logged in the data will be filter based on UserPrefrences.
-- **Used FIREBASE** Integrated Fire base for Authentication and for admin purpose .- 
-  
+- **User Preferences:** If logged in, data is filtered based on user preferences.
+- **Firebase Integration:** Integrated Firebase for Authentication and admin purposes.
 
 ## Getting Started
 
@@ -26,16 +26,31 @@ Follow these steps to get the app up and running on your local machine.
 - Node.js and npm installed
 - MongoDB installed and running
 
-##ScreenShots:
+## Screenshots
 
-![image](https://github.com/AlaguAravindA/Cinesync/assets/136082352/9728b5ca-8ffa-40de-ad17-3e7e42c51457)
-![image](https://github.com/AlaguAravindA/Cinesync/assets/136082352/fa3aa40d-702e-41c5-8f7e-34a92bfd3671)
-![image](https://github.com/AlaguAravindA/Cinesync/assets/136082352/20c7a7e5-eb47-4870-83d2-d633f33a1e02)
-##Forgot password
-![Screenshot 2024-01-05 145040](https://github.com/AlaguAravindA/Cinesync/assets/136082352/60d08f6a-e1ba-4434-ae77-775d2d2e0fb4)
+![Screenshot 1](link-to-screenshot-1)
+![Screenshot 2](link-to-screenshot-2)
+![Screenshot 3](link-to-screenshot-3)
 
 
 
+
+
+
+## Demo
+
+
+
+## How to use it 
+
+If you want you can use your own google account to login 
+or register as new user to login with any email
+
+Below provided DEMO account
+**Email addreess**
+Cinesync123test@gmail.com
+**Password**
+Cinesync123
 
 
 
