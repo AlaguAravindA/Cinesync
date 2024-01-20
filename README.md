@@ -46,7 +46,7 @@ Follow these steps to get the app up and running on your local machine.
 ## Demo
 
 
-https://cineback-0zol.onrender.com/searchmovies/
+[CineSync](https://poetic-dieffenbachia-147726.netlify.app/)
 
 
 
