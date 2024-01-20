@@ -28,9 +28,15 @@ Follow these steps to get the app up and running on your local machine.
 
 ## Screenshots
 
-![Screenshot 1](link-to-screenshot-1)
-![Screenshot 2](link-to-screenshot-2)
-![Screenshot 3](link-to-screenshot-3)
+![image](https://github.com/AlaguAravindA/Cinesync/assets/136082352/fcddba6e-6fc4-492d-96f8-b6246aa7b2e8)
+
+![image](https://github.com/AlaguAravindA/Cinesync/assets/136082352/58dbee0a-e83a-4bed-8b8a-899c8694cb3a)
+
+![image](https://github.com/AlaguAravindA/Cinesync/assets/136082352/6aaa8256-f572-43a7-987f-6891b833986e)
+
+![image](https://github.com/AlaguAravindA/Cinesync/assets/136082352/ee2a6e9b-695f-4c63-a748-30f04f6b1e6c)
+
+
 
 
 
@@ -47,9 +53,17 @@ If you want you can use your own google account to login
 or register as new user to login with any email
 
 Below provided DEMO account
+
+
 **Email addreess**
+
+
 Cinesync123test@gmail.com
+
+
 **Password**
+
+
 Cinesync123
 
 
